@@ -6,7 +6,7 @@
 3. UIKit 사용
 4. 라이브러리: SnapKit, Moya를 사용해보자.
 5. Tool: Fork, Tuist, Gitmoji
-6. 코딩 컨벤션: [Swift Style Guide](https://github.com/StyleShare/swift-style-guide, "Go Swift Style Guide")
+6. 코딩 컨벤션: [Swift Style Guide](https://github.com/StyleShare/swift-style-guide "Go Swift Style Guide")
 7. UI는 비슷하게만 진행하고 아키텍처나 기술사용에 초점을 맞추자.
 
 ### 필수기능
